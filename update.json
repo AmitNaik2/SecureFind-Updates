@@ -1,1 +1,7 @@
-
+{
+  "versionCode": 2,
+  "versionName": "0.1.1-dev",
+  "downloadUrl": "https://github.com/AmitNaik2/SecureFind-Updates/releases/download/v0.1.1-dev/app-debug.apk",
+  "releaseNotes": "Initial test release for the SecureFind remote development update system.",
+  "mandatory": false
+}
