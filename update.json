@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5-dev",
-  "downloadUrl": "https://github.com/AmitNaik2/SecureFind-Updates/releases/download/v0.1.5-dev/SecureFind-0.1.5-dev.apk",
-  "releaseNotes": "SecureFind development build v0.1.5-dev (code 6). Automated development update release.",
+  "versionCode": 7,
+  "versionName": "0.1.6-dev",
+  "downloadUrl": "https://github.com/AmitNaik2/SecureFind-Updates/releases/download/v0.1.6-dev/SecureFind-0.1.6-dev.apk",
+  "releaseNotes": "SecureFind development build v0.1.6-dev (code 7). Automated development update release.",
   "mandatory": false
 }
