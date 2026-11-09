@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.7-dev",
+  "versionCode": 9,
+  "versionName": "0.1.8-test",
   "downloadUrl": "https://github.com/AmitNaik2/SecureFind-Updates/releases/download/v0.1.7-dev/SecureFind-0.1.7-dev.apk",
-  "releaseNotes": "SecureFind development build v0.1.7-dev (code 8). Automated development update release.",
+  "releaseNotes": "🚀 Live 10-Second Periodic OTA Update Test\n• Verified 10-second automatic background polling\n• Instant update detection without restarting app\n• Real-time cloud pairing rendezvous (/pairing_sessions)\n• Dynamic ZXing QR code generation active",
   "mandatory": false
 }
